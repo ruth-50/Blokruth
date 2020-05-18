@@ -12,3 +12,12 @@ for (let i = 1; i < 10; i++) {
     console.log(`${tres} x ${i} = ${tabla3}`);
     
 }
+
+let cuatro = 4;
+let tabla4;
+for (let i = 1; i < 10; i++) {
+    tabla4 = cuatro * i;
+    console.log(`${cuatro} x ${i} = ${tabla4}`);
+    
+}
+
